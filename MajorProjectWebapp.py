@@ -1,7 +1,3 @@
-pip install streamlit
-pip install numpy 
-pip install pandas
-pip install sklearn
 import streamlit as st
 import numpy as np
 import pandas as pd
