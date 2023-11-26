@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+pip install sklearn
 from sklearn.svm import SVC
 from sklearn.pipeline import make_pipeline
 st.title("Review Prediction")
